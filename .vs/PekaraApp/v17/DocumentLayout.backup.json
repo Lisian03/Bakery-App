@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROG\\PekaraApp\\PekaraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\controllers\\evidencijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\controllers\\evidencijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\dto\\createkorisnikdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\dto\\createkorisnikdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\dto\\evidencijadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\dto\\evidencijadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\dto\\createevidencijadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\dto\\createevidencijadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\models\\evidencija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\models\\evidencija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\models\\smjena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\models\\smjena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\controllers\\smjenacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\controllers\\smjenacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\dto\\createsmjenadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\dto\\createsmjenadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\dto\\smjenadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\dto\\smjenadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\controllers\\proizvodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\controllers\\proizvodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\models\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\models\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\dto\\proizvoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\dto\\proizvoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|c:\\prog\\pekaraapp\\pekaraapp\\pekaraapi\\dto\\createproizvoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F10F81-DD76-46A1-809B-59BAB18AC4CC}|PekaraAPI\\PekaraAPI.csproj|solutionrelative:pekaraapi\\dto\\createproizvoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateKorisnikDTO.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\CreateKorisnikDTO.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\DTO\\CreateKorisnikDTO.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\CreateKorisnikDTO.cs",
+              "RelativeToolTip": "PekaraAPI\\DTO\\CreateKorisnikDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:05:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Models\\Korisnik.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\Models\\Korisnik.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Models\\Korisnik.cs",
+              "RelativeToolTip": "PekaraAPI\\Models\\Korisnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:04:41.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "PekaraAPI\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:04:34.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvidencijaController.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Controllers\\EvidencijaController.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\Controllers\\EvidencijaController.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Controllers\\EvidencijaController.cs",
+              "RelativeToolTip": "PekaraAPI\\Controllers\\EvidencijaController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:04:10.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EvidencijaDTO.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\EvidencijaDTO.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\DTO\\EvidencijaDTO.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\EvidencijaDTO.cs",
+              "RelativeToolTip": "PekaraAPI\\DTO\\EvidencijaDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T15:15:56.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEvidencijaDTO.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\CreateEvidencijaDTO.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\DTO\\CreateEvidencijaDTO.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\CreateEvidencijaDTO.cs",
+              "RelativeToolTip": "PekaraAPI\\DTO\\CreateEvidencijaDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T15:15:43.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Evidencija.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Models\\Evidencija.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\Models\\Evidencija.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Models\\Evidencija.cs",
+              "RelativeToolTip": "PekaraAPI\\Models\\Evidencija.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T15:14:51.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PekaraAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwDwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:57:54.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmjenaDTO.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\SmjenaDTO.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\DTO\\SmjenaDTO.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\SmjenaDTO.cs",
+              "RelativeToolTip": "PekaraAPI\\DTO\\SmjenaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:39:27.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateSmjenaDTO.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\CreateSmjenaDTO.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\DTO\\CreateSmjenaDTO.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\CreateSmjenaDTO.cs",
+              "RelativeToolTip": "PekaraAPI\\DTO\\CreateSmjenaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:40:43.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmjenaController.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Controllers\\SmjenaController.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\Controllers\\SmjenaController.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Controllers\\SmjenaController.cs",
+              "RelativeToolTip": "PekaraAPI\\Controllers\\SmjenaController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:31:56.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Smjena.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Models\\Smjena.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\Models\\Smjena.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Models\\Smjena.cs",
+              "RelativeToolTip": "PekaraAPI\\Models\\Smjena.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:21:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateProizvodDTO.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\CreateProizvodDTO.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\DTO\\CreateProizvodDTO.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\CreateProizvodDTO.cs",
+              "RelativeToolTip": "PekaraAPI\\DTO\\CreateProizvodDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:50:36.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Proizvod.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Models\\Proizvod.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\Models\\Proizvod.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Models\\Proizvod.cs",
+              "RelativeToolTip": "PekaraAPI\\Models\\Proizvod.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:49:29.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProizvodDTO.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\ProizvodDTO.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\DTO\\ProizvodDTO.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\DTO\\ProizvodDTO.cs",
+              "RelativeToolTip": "PekaraAPI\\DTO\\ProizvodDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:46:40.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProizvodController.cs",
+              "DocumentMoniker": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Controllers\\ProizvodController.cs",
+              "RelativeDocumentMoniker": "PekaraAPI\\Controllers\\ProizvodController.cs",
+              "ToolTip": "C:\\PROG\\PekaraApp\\PekaraApp\\PekaraAPI\\Controllers\\ProizvodController.cs",
+              "RelativeToolTip": "PekaraAPI\\Controllers\\ProizvodController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAIwL4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:46:17.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
